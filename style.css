@@ -1,0 +1,19 @@
+body {
+    background-color: #ffa652;
+}
+
+.title {
+    margin: 0 auto;
+    width: 800px;
+    text-align: center;
+    border: black 2px solid;
+}
+
+.list {
+    margin: 0 auto;
+    width: 800px;
+    padding-left: 500px;
+}
+
+
+
